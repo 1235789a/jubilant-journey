@@ -1,0 +1,1946 @@
+[
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a paid tool that syncs Notion to Obsidian automatically? Tired of manually copying notes between the two. Would pay for this.",
+      "trigger_keyword": "Is there a paid tool",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 notion, notion, obsidian + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "NotionBackup",
+      "core_feature_only": "Automatically backups Notion pages to cloud storage (Google Drive, Dropbox, etc.)",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"Is there a paid tool that syncs Notion to Obsidian automatic\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/Notion/comments/example44",
+      "subreddit": "Notion"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a paid tool that unsubscribes me from all junk mail automatically? So tired of this spam. Would pay for a good unsubscribe solution.",
+      "trigger_keyword": "Is there a paid tool",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"Is there a paid tool that unsubscribes me from all junk mail\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/example9",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I hate how Trello doesn't have good reporting - any alternatives? As a project manager, I need better insights. Would pay for this.",
+      "trigger_keyword": "would pay",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 trello + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I hate how Trello doesn't have good reporting - any alternat\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/trello/comments/example20",
+      "subreddit": "trello"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I'd pay $20/month for a tool that automatically backs up my Notion pages to Google Drive Notion crashed last week and I lost all my content. Is there a paid tool that does this?",
+      "trigger_keyword": "Is there a paid tool",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 notion, google drive, notion + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "NotionAuto",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I'd pay $20/month for a tool that automatically backs up my \" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/Notion/comments/example50",
+      "subreddit": "Notion"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I spend 4 hours every week manually cleaning Excel data - is there a tool for this? Would pay someone to build an automator for my repetitive spreadsheet tasks.",
+      "trigger_keyword": "would pay",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 excel + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "SheetAuto",
+      "core_feature_only": "Automates repetitive spreadsheet tasks and data processing",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I spend 4 hours every week manually cleaning Excel data - is\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/excel/comments/example28",
+      "subreddit": "excel"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for a tool to sync bookmarks across Chrome, Safari, Firefox Native sync is terrible. Would pay for a good solution.",
+      "trigger_keyword": "would pay",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "BookmarkOrganizer",
+      "core_feature_only": "Organizes and syncs browser bookmarks across devices",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"Looking for a tool to sync bookmarks across Chrome, Safari, \" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example15",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for a tool to batch rename files - manual renaming takes forever Would pay for something that can rename 100s of files at once with patterns.",
+      "trigger_keyword": "would pay",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "FileFlow",
+      "core_feature_only": "Organizes and manages files automatically",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"Looking for a tool to batch rename files - manual renaming t\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/software/comments/example52",
+      "subreddit": "software"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I'd pay for a good password manager alternative - 1Password got too expensive Looking for something more affordable that still has good features.",
+      "trigger_keyword": "I'd pay for",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I'd pay for a good password manager alternative - 1Password \" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/example54",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I'd pay for a good password manager alternative - 1Password got too expensive Looking for something more affordable that still has good features.",
+      "trigger_keyword": "I'd pay for",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I'd pay for a good password manager alternative - 1Password \" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/example13",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "So frustrated with PDF editing - Acrobat is way too expensive Just need basic PDF editing without paying a monthly fee.",
+      "trigger_keyword": "frustrated with",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"So frustrated with PDF editing - Acrobat is way too expensiv\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/software/comments/example51",
+      "subreddit": "software"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I spend 4 hours every week manually cleaning Excel data - is there a tool for this? Would pay someone to build an automator for my repetitive spreadsheet tasks.",
+      "trigger_keyword": "would pay",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 excel + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "SpreadTool",
+      "core_feature_only": "Automates repetitive spreadsheet tasks and data processing",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I spend 4 hours every week manually cleaning Excel data - is\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/excel/comments/example59",
+      "subreddit": "excel"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I'd pay for a tool that turns my calendar events into PDF invoices automatically Freelance here, waste 5hrs a week on invoices. Someone please build this.",
+      "trigger_keyword": "I'd pay for",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 calendar + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "CalendarTool",
+      "core_feature_only": "Converts calendar events to PDF invoices automatically",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I'd pay for a tool that turns my calendar events into PDF in\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/freelance/comments/example2",
+      "subreddit": "freelance"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a paid tool that syncs Notion to Obsidian automatically? Tired of manually copying notes between the two. Would pay for this.",
+      "trigger_keyword": "Is there a paid tool",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 notion, notion, obsidian + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "NotionBackup",
+      "core_feature_only": "Automatically backups Notion pages to cloud storage (Google Drive, Dropbox, etc.)",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"Is there a paid tool that syncs Notion to Obsidian automatic\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/Notion/comments/example6",
+      "subreddit": "Notion"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I hate how Trello doesn't have good reporting - any alternatives? As a project manager, I need better insights. Would pay for this.",
+      "trigger_keyword": "would pay",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 trello + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I hate how Trello doesn't have good reporting - any alternat\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/trello/comments/example34",
+      "subreddit": "trello"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I'd pay $20/month for a tool that automatically backs up my Notion pages to Google Drive Notion crashed last week and I lost all my content. Is there a paid tool that does this?",
+      "trigger_keyword": "Is there a paid tool",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 notion, google drive, notion + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "NotionBackup",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I'd pay $20/month for a tool that automatically backs up my \" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/Notion/comments/example0",
+      "subreddit": "Notion"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "So frustrated with PDF editing - Acrobat is way too expensive Just need basic PDF editing without paying a monthly fee.",
+      "trigger_keyword": "frustrated with",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"So frustrated with PDF editing - Acrobat is way too expensiv\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/software/comments/example38",
+      "subreddit": "software"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for a tool to sync bookmarks across Chrome, Safari, Firefox Native sync is terrible. Would pay for a good solution.",
+      "trigger_keyword": "would pay",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "BookmarkSync",
+      "core_feature_only": "Organizes and syncs browser bookmarks across devices",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"Looking for a tool to sync bookmarks across Chrome, Safari, \" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example47",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I'd pay $20/month for a tool that automatically backs up my Notion pages to Google Drive Notion crashed last week and I lost all my content. Is there a paid tool that does this?",
+      "trigger_keyword": "Is there a paid tool",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 notion, google drive, notion + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "NotionExporter",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I'd pay $20/month for a tool that automatically backs up my \" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/Notion/comments/example1",
+      "subreddit": "Notion"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I spend 4 hours every week manually cleaning Excel data - is there a tool for this? Would pay someone to build an automator for my repetitive spreadsheet tasks.",
+      "trigger_keyword": "would pay",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 excel + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "SpreadTool",
+      "core_feature_only": "Automates repetitive spreadsheet tasks and data processing",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I spend 4 hours every week manually cleaning Excel data - is\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/excel/comments/example53",
+      "subreddit": "excel"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I'd pay for a good password manager alternative - 1Password got too expensive Looking for something more affordable that still has good features.",
+      "trigger_keyword": "I'd pay for",
+      "validation_score": "5星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$29 one-time purchase or $9/month subscription",
+      "traffic_hook": "Check out this tool that solves: \"I'd pay for a good password manager alternative - 1Password \" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/example14",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool that posts to multiple social platforms at once? So time-consuming posting to Instagram, Twitter, LinkedIn individually.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool that posts to multiple social platforms at o\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/socialmedia/comments/example4",
+      "subreddit": "socialmedia"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I spend 4 hours every week manually cleaning Excel data - is there a tool for this? Would pay someone to build an automator for my repetitive spreadsheet tasks.",
+      "trigger_keyword": "would pay",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 excel + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "ExcelFlow",
+      "core_feature_only": "Automates repetitive spreadsheet tasks and data processing",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"I spend 4 hours every week manually cleaning Excel data - is\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/excel/comments/example16",
+      "subreddit": "excel"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I spend 4 hours every week manually cleaning Excel data - is there a tool for this? Would pay someone to build an automator for my repetitive spreadsheet tasks.",
+      "trigger_keyword": "would pay",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 excel + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "SheetAuto",
+      "core_feature_only": "Automates repetitive spreadsheet tasks and data processing",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"I spend 4 hours every week manually cleaning Excel data - is\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/excel/comments/example18",
+      "subreddit": "excel"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I'd pay $20/month for a tool that automatically backs up my Notion pages to Google Drive Notion crashed last week and I lost all my content. Is there a paid tool that does this?",
+      "trigger_keyword": "Is there a paid tool",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 notion, google drive, notion + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "NotionAuto",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"I'd pay $20/month for a tool that automatically backs up my \" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/Notion/comments/example26",
+      "subreddit": "Notion"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Fed up with Google Drive search - it never finds what I need So frustrating trying to locate old files. Is there a better file organizer?",
+      "trigger_keyword": "fed up with",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 google drive + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "FileOrganizer",
+      "core_feature_only": "Organizes and manages files automatically",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Fed up with Google Drive search - it never finds what I need\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/example25",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Tired of manually replying to the same emails - any automation tool? Would pay for something that can auto-respond with canned replies to common queries.",
+      "trigger_keyword": "would pay",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 email + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EmailTool",
+      "core_feature_only": "Automates email workflows and repetitive email tasks",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Tired of manually replying to the same emails - any automati\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example43",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for an alternative to Gmail's built-in filters - they're too limited Need more control over my inbox automation.",
+      "trigger_keyword": "looking for",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 gmail + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for an alternative to Gmail's built-in filters - the\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/email/comments/example39",
+      "subreddit": "email"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Fed up with Google Drive search - it never finds what I need So frustrating trying to locate old files. Is there a better file organizer?",
+      "trigger_keyword": "fed up with",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 google drive + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "FileFlow",
+      "core_feature_only": "Organizes and manages files automatically",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Fed up with Google Drive search - it never finds what I need\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/example27",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there an alternative to Excel that's not Google Sheets? Fed up with how slow Excel is for large datasets.",
+      "trigger_keyword": "fed up with",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 excel, google sheets + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "SpreadTool",
+      "core_feature_only": "Automates repetitive spreadsheet tasks and data processing",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there an alternative to Excel that's not Google Sheets?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/spreadsheets/comments/example58",
+      "subreddit": "spreadsheets"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for an alternative to Gmail's built-in filters - they're too limited Need more control over my inbox automation.",
+      "trigger_keyword": "looking for",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 gmail + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for an alternative to Gmail's built-in filters - the\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/email/comments/example19",
+      "subreddit": "email"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool that organizes my downloads folder automatically? My downloads is a mess. Need something that sorts files into folders.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "FileFlow",
+      "core_feature_only": "Organizes and manages files automatically",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool that organizes my downloads folder automatic\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example46",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "So frustrated with VLOOKUP - is there a better way to join data? Every time I use VLOOKUP I want to cry. Need a simpler tool.",
+      "trigger_keyword": "frustrated with",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"So frustrated with VLOOKUP - is there a better way to join d\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/excel/comments/example8",
+      "subreddit": "excel"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool that posts to multiple social platforms at once? So time-consuming posting to Instagram, Twitter, LinkedIn individually.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool that posts to multiple social platforms at o\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/socialmedia/comments/example33",
+      "subreddit": "socialmedia"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool to automatically generate receipts from photos? So tedious entering expenses manually every week.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool to automatically generate receipts from phot\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example12",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there an alternative to Excel that's not Google Sheets? Fed up with how slow Excel is for large datasets.",
+      "trigger_keyword": "fed up with",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 excel, google sheets + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "SpreadTool",
+      "core_feature_only": "Automates repetitive spreadsheet tasks and data processing",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there an alternative to Excel that's not Google Sheets?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/spreadsheets/comments/example29",
+      "subreddit": "spreadsheets"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I hate how Trello doesn't have good reporting - any alternatives? As a project manager, I need better insights. Would pay for this.",
+      "trigger_keyword": "would pay",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 trello + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "QuickTool",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"I hate how Trello doesn't have good reporting - any alternat\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/trello/comments/example31",
+      "subreddit": "trello"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool that organizes my downloads folder automatically? My downloads is a mess. Need something that sorts files into folders.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "FileFlow",
+      "core_feature_only": "Organizes and manages files automatically",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool that organizes my downloads folder automatic\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example49",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there an alternative to Excel that's not Google Sheets? Fed up with how slow Excel is for large datasets.",
+      "trigger_keyword": "fed up with",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 excel, google sheets + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "SheetAuto",
+      "core_feature_only": "Automates repetitive spreadsheet tasks and data processing",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there an alternative to Excel that's not Google Sheets?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/spreadsheets/comments/example35",
+      "subreddit": "spreadsheets"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "So frustrated with VLOOKUP - is there a better way to join data? Every time I use VLOOKUP I want to cry. Need a simpler tool.",
+      "trigger_keyword": "frustrated with",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"So frustrated with VLOOKUP - is there a better way to join d\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/excel/comments/example36",
+      "subreddit": "excel"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool to automatically generate receipts from photos? So tedious entering expenses manually every week.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool to automatically generate receipts from phot\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example11",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I'd pay for a good password manager alternative - 1Password got too expensive Looking for something more affordable that still has good features.",
+      "trigger_keyword": "I'd pay for",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"I'd pay for a good password manager alternative - 1Password \" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/example45",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there an alternative to Excel that's not Google Sheets? Fed up with how slow Excel is for large datasets.",
+      "trigger_keyword": "fed up with",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 excel, google sheets + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "ExcelFlow",
+      "core_feature_only": "Automates repetitive spreadsheet tasks and data processing",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there an alternative to Excel that's not Google Sheets?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/spreadsheets/comments/example22",
+      "subreddit": "spreadsheets"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Tired of manually replying to the same emails - any automation tool? Would pay for something that can auto-respond with canned replies to common queries.",
+      "trigger_keyword": "would pay",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 email + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EmailAuto",
+      "core_feature_only": "Automates email workflows and repetitive email tasks",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Tired of manually replying to the same emails - any automati\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example17",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for a better way to track time for freelancers Current tools are either too complicated or too expensive.",
+      "trigger_keyword": "looking for",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for a better way to track time for freelancers\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/freelance/comments/example30",
+      "subreddit": "freelance"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool to automatically generate receipts from photos? So tedious entering expenses manually every week.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool to automatically generate receipts from phot\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example24",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Tired of manually replying to the same emails - any automation tool? Would pay for something that can auto-respond with canned replies to common queries.",
+      "trigger_keyword": "would pay",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 email + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EmailAuto",
+      "core_feature_only": "Automates email workflows and repetitive email tasks",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Tired of manually replying to the same emails - any automati\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example3",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Tired of manually replying to the same emails - any automation tool? Would pay for something that can auto-respond with canned replies to common queries.",
+      "trigger_keyword": "would pay",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 email + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EmailAuto",
+      "core_feature_only": "Automates email workflows and repetitive email tasks",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Tired of manually replying to the same emails - any automati\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example37",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a way to auto-sync photos from my phone to external hard drive? Tired of manually backing up every few months.",
+      "trigger_keyword": "tired of",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a way to auto-sync photos from my phone to external\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/example7",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for a Notion export alternative - built-in export is terrible Every time I export from Notion it's a mess. Need a better way to backup my data.",
+      "trigger_keyword": "terrible",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 notion, notion + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "NotionSync",
+      "core_feature_only": "Automatically backups Notion pages to cloud storage (Google Drive, Dropbox, etc.)",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for a Notion export alternative - built-in export is\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/Notion/comments/example5",
+      "subreddit": "Notion"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there an alternative to Excel that's not Google Sheets? Fed up with how slow Excel is for large datasets.",
+      "trigger_keyword": "fed up with",
+      "validation_score": "4星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 excel, google sheets + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "SpreadTool",
+      "core_feature_only": "Automates repetitive spreadsheet tasks and data processing",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$19 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there an alternative to Excel that's not Google Sheets?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/spreadsheets/comments/example23",
+      "subreddit": "spreadsheets"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there an alternative to Excel that's not Google Sheets? Fed up with how slow Excel is for large datasets.",
+      "trigger_keyword": "fed up with",
+      "validation_score": "3星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 excel, google sheets + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "ExcelFlow",
+      "core_feature_only": "Automates repetitive spreadsheet tasks and data processing",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there an alternative to Excel that's not Google Sheets?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/spreadsheets/comments/example32",
+      "subreddit": "spreadsheets"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for an alternative to Canva that's not so expensive Canva's pricing keeps going up but I only need basic features.",
+      "trigger_keyword": "looking for",
+      "validation_score": "3星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for an alternative to Canva that's not so expensive\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/marketing/comments/example41",
+      "subreddit": "marketing"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for a Notion export alternative - built-in export is terrible Every time I export from Notion it's a mess. Need a better way to backup my data.",
+      "trigger_keyword": "terrible",
+      "validation_score": "3星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 notion, notion + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "NotionBackup",
+      "core_feature_only": "Automatically backups Notion pages to cloud storage (Google Drive, Dropbox, etc.)",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for a Notion export alternative - built-in export is\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/Notion/comments/example48",
+      "subreddit": "Notion"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for a better way to track time for freelancers Current tools are either too complicated or too expensive.",
+      "trigger_keyword": "looking for",
+      "validation_score": "3星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for a better way to track time for freelancers\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/freelance/comments/example55",
+      "subreddit": "freelance"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool that posts to multiple social platforms at once? So time-consuming posting to Instagram, Twitter, LinkedIn individually.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "3星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool that posts to multiple social platforms at o\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/socialmedia/comments/example40",
+      "subreddit": "socialmedia"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool to automatically generate receipts from photos? So tedious entering expenses manually every week.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "3星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool to automatically generate receipts from phot\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/example42",
+      "subreddit": "productivity"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool that posts to multiple social platforms at once? So time-consuming posting to Instagram, Twitter, LinkedIn individually.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "3星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool that posts to multiple social platforms at o\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/socialmedia/comments/example10",
+      "subreddit": "socialmedia"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for a way to auto-generate Trello cards from emails Tired of manually creating cards from incoming requests.",
+      "trigger_keyword": "tired of",
+      "validation_score": "3星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "使用 trello, email + 手动操作",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EmailTool",
+      "core_feature_only": "Automates email workflows and repetitive email tasks",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for a way to auto-generate Trello cards from emails\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/trello/comments/example56",
+      "subreddit": "trello"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "I'd pay for a good password manager alternative - 1Password got too expensive Looking for something more affordable that still has good features.",
+      "trigger_keyword": "I'd pay for",
+      "validation_score": "3星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"I'd pay for a good password manager alternative - 1Password \" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/example21",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for an alternative to Canva that's not so expensive Canva's pricing keeps going up but I only need basic features.",
+      "trigger_keyword": "looking for",
+      "validation_score": "3星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for an alternative to Canva that's not so expensive\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/marketing/comments/example57",
+      "subreddit": "marketing"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool for this? Would appreciate any recommendations.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "2星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool for this?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/medium15",
+      "subreddit": "software"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool for this? So annoying having to do this over and over.",
+      "trigger_keyword": "so annoying",
+      "validation_score": "2星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool for this?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/askreddit/comments/medium13",
+      "subreddit": "software"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for alternatives So annoying having to do this over and over.",
+      "trigger_keyword": "so annoying",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "QuickTool",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for alternatives\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/medium16",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool for this? So annoying having to do this over and over.",
+      "trigger_keyword": "so annoying",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool for this?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/webdev/comments/medium11",
+      "subreddit": "webdev"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for alternatives Tired of doing this manually every week.",
+      "trigger_keyword": "tired of",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for alternatives\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/software/comments/medium7",
+      "subreddit": "askreddit"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool for this? Just wondering if anyone has a solution for this.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool for this?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/software/comments/medium14",
+      "subreddit": "webdev"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "This is frustrating So annoying having to do this over and over.",
+      "trigger_keyword": "so annoying",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"This is frustrating\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/software/comments/medium10",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool for this? Just wondering if anyone has a solution for this.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool for this?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/software/comments/medium3",
+      "subreddit": "webdev"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "This is frustrating So annoying having to do this over and over.",
+      "trigger_keyword": "so annoying",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "QuickTool",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"This is frustrating\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/medium2",
+      "subreddit": "software"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "This is frustrating Just wondering if anyone has a solution for this.",
+      "trigger_keyword": "frustrating",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"This is frustrating\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/askreddit/comments/medium20",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool for this? Would appreciate any recommendations.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool for this?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/webdev/comments/medium21",
+      "subreddit": "software"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "This is frustrating Would appreciate any recommendations.",
+      "trigger_keyword": "frustrating",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"This is frustrating\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/medium8",
+      "subreddit": "askreddit"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Anyone else have this problem? Tired of doing this manually every week.",
+      "trigger_keyword": "tired of",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "QuickTool",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Anyone else have this problem?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/software/comments/medium6",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool for this? So annoying having to do this over and over.",
+      "trigger_keyword": "so annoying",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool for this?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/software/comments/medium9",
+      "subreddit": "software"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Is there a tool for this? Would appreciate any recommendations.",
+      "trigger_keyword": "is there a tool",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Is there a tool for this?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/webdev/comments/medium22",
+      "subreddit": "webdev"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Rant: Just had a terrible day Needed to get this off my chest.",
+      "trigger_keyword": "terrible",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Rant: Just had a terrible day\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/reddit/comments/noise6",
+      "subreddit": "reddit"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Anyone else have this problem? Tired of doing this manually every week.",
+      "trigger_keyword": "tired of",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Anyone else have this problem?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/productivity/comments/medium17",
+      "subreddit": "software"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for alternatives Tired of doing this manually every week.",
+      "trigger_keyword": "tired of",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for alternatives\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/technology/comments/medium18",
+      "subreddit": "askreddit"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Anyone else have this problem? Tired of doing this manually every week.",
+      "trigger_keyword": "tired of",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "Workflow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Anyone else have this problem?\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/askreddit/comments/medium12",
+      "subreddit": "technology"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "This is frustrating Tired of doing this manually every week.",
+      "trigger_keyword": "tired of",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "AutoFlow",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"This is frustrating\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/webdev/comments/medium19",
+      "subreddit": "webdev"
+    }
+  },
+  {
+    "painpoint_summary": {
+      "user_context": "Looking for alternatives So annoying having to do this over and over.",
+      "trigger_keyword": "so annoying",
+      "validation_score": "1星"
+    },
+    "competitor_analysis": {
+      "current_substitute": "Manual work / 手动重复劳动",
+      "substitute_flaws": "Time-consuming, error-prone, lacks automation, 耗时且容易出错"
+    },
+    "mvp_definition": {
+      "product_name": "EasyHelper",
+      "core_feature_only": "Automates the repetitive task mentioned in the post",
+      "tech_stack_suggestion": "Python script / Single HTML page"
+    },
+    "monetization_route": {
+      "pricing_strategy": "$14.99 one-time purchase",
+      "traffic_hook": "Check out this tool that solves: \"Looking for alternatives\" - [Trial Link] →"
+    },
+    "source": {
+      "url": "https://reddit.com/r/software/comments/medium23",
+      "subreddit": "askreddit"
+    }
+  }
+]
