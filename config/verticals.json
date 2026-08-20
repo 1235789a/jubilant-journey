@@ -1,0 +1,11 @@
+[
+  {"vertical_id":"domestic_web_novel","name":"国内网文","status":"P1_REVIEW","pilot_limit":1,"scores":{"natural_traffic":90,"ai_automation":65,"monetization_distance":65,"multi_platformability":35,"multi_productability":85,"maintenance_cost":25,"legal_risk":40}},
+  {"vertical_id":"international_ebook","name":"国际电子书","status":"P0_PILOT","pilot_limit":3,"scores":{"natural_traffic":88,"ai_automation":82,"monetization_distance":70,"multi_platformability":82,"multi_productability":90,"maintenance_cost":78,"legal_risk":60}},
+  {"vertical_id":"browser_extension","name":"浏览器插件","status":"P0_PILOT","pilot_limit":3,"scores":{"natural_traffic":88,"ai_automation":85,"monetization_distance":62,"multi_platformability":92,"multi_productability":88,"maintenance_cost":68,"legal_risk":70}},
+  {"vertical_id":"developer_tool","name":"开发者插件 / 工具","status":"P1_PLANNED","pilot_limit":3,"scores":{"natural_traffic":84,"ai_automation":88,"monetization_distance":68,"multi_platformability":72,"multi_productability":85,"maintenance_cost":65,"legal_risk":72}},
+  {"vertical_id":"b2b_saas_app","name":"B2B SaaS 生态应用","status":"P1_PLANNED","pilot_limit":2,"scores":{"natural_traffic":82,"ai_automation":72,"monetization_distance":78,"multi_platformability":62,"multi_productability":68,"maintenance_cost":42,"legal_risk":58}},
+  {"vertical_id":"app","name":"App","status":"DISABLED_PENDING_REVIEW","pilot_limit":1,"scores":{"natural_traffic":95,"ai_automation":62,"monetization_distance":65,"multi_platformability":55,"multi_productability":72,"maintenance_cost":35,"legal_risk":30}},
+  {"vertical_id":"game","name":"游戏 / 小游戏","status":"P2_LOW_COST_FIRST","pilot_limit":1,"scores":{"natural_traffic":90,"ai_automation":55,"monetization_distance":60,"multi_platformability":65,"multi_productability":62,"maintenance_cost":40,"legal_risk":48}},
+  {"vertical_id":"digital_asset","name":"数字素材 / 游戏资产","status":"P1_PLANNED","pilot_limit":2,"scores":{"natural_traffic":82,"ai_automation":82,"monetization_distance":72,"multi_platformability":78,"multi_productability":92,"maintenance_cost":72,"legal_risk":55}},
+  {"vertical_id":"geo_brand","name":"GEO / AI Search 品牌流量","status":"BRAND_MAINLINE","pilot_limit":0,"scores":{"natural_traffic":45,"ai_automation":82,"monetization_distance":55,"multi_platformability":92,"multi_productability":45,"maintenance_cost":55,"legal_risk":75}}
+]

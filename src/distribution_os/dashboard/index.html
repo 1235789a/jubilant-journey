@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <title>Distribution OS</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar">
+        <a class="brand" href="#overview" aria-label="Distribution OS home">
+          <span class="brand-mark">D</span>
+          <span><strong>Distribution</strong><small>OS · V1</small></span>
+        </a>
+        <nav id="nav" aria-label="Primary navigation"></nav>
+        <div class="sidebar-foot">
+          <div class="safe-chip"><span></span> Dry-run locked</div>
+          <p>Local-first control plane</p>
+        </div>
+      </aside>
+      <main>
+        <header class="topbar">
+          <div>
+            <p class="kicker">INTERNET ASSET CONTROL PLANE</p>
+            <h1 id="page-title">Overview</h1>
+          </div>
+          <div class="top-actions">
+            <span id="mode-pill" class="pill safe">DRY RUN</span>
+            <button id="refresh" class="button ghost" type="button">Refresh</button>
+            <button id="kill-switch" class="button danger" type="button">Stop all publishing</button>
+          </div>
+        </header>
+        <section id="safety-banner" class="safety-banner" aria-live="polite"></section>
+        <section id="content" class="content" aria-live="polite">
+          <div class="loading">Loading control plane…</div>
+        </section>
+      </main>
+    </div>
+    <template id="empty-template">
+      <div class="empty"><strong>Nothing here yet.</strong><p>This registry is ready for data.</p></div>
+    </template>
+    <script src="/static/app.js" defer></script>
+  </body>
+</html>
