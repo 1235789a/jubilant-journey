@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "LinkLens Local Notes",
+  "version": "0.1.0",
+  "description": "Save a private note for the current page in local browser storage.",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "LinkLens Local Notes"
+  }
+}
